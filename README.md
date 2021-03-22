@@ -18,11 +18,11 @@ In the future, it is planned to export the budget data.
    
         other method convenient for you
 
-2. Install dependencies (with Python 3.x):
+2. Install dependencies (with Python >= 3.5):
     
         pip install -r requirements.txt 
 
-3. Run the wallet app (Python 3.x):
+3. Run the wallet app (Python >= 3.5):
 
         cd /path/to/personalWallet
         python3 main.py

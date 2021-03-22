@@ -1,1 +1,4 @@
 .idea/
+wallet/
+data_base/
+*.pyc
